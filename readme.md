@@ -40,6 +40,7 @@ Commands include options for upload (put) or download (get) with either TCP or U
 │     └─ server_work.c
 │─── pic                         // Pictures and gifs for documentation
 └─── makefile                    // Build script
+'''
 
 ### Limitations:
 - Single-client-server interaction with no concurrency support.
